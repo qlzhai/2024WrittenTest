@@ -1,0 +1,9 @@
+﻿  3.cpp
+E:\代码随想录\test\3.cpp(26,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(41,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(52,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(104,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(110,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\代码随想录\test\3.cpp(125,20): warning C4018: “<”: 有符号/无符号不匹配
+  test.vcxproj -> E:\代码随想录\test\Debug\test.exe
